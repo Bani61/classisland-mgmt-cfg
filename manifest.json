@@ -1,4 +1,10 @@
 {
     "ServerKind": 0,
     "OrganizationName": "西中电教运营团队"
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/Bani
+61/classisland-mgmt-cfg/master/policy.json",
+        "Version": 1
+    }
 }
