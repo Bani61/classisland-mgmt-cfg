@@ -1,5 +1,4 @@
 # classisland-mgmt-cfg
-lzxbzx_ci_control
 
 lzxbzx_ci_control
 由「YiKo teen in 兰州西北中学」发起的「西中电教交流」项目下属工作模块，
