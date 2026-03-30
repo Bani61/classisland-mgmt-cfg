@@ -2,7 +2,8 @@
     "ServerKind": 0,
     "OrganizationName": "西中电教中心",
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/Bani61/classisland-mgmt-cfg/master/policy.json",
+        "Value": "https://raw.githubusercontent.com/Bani61/classisland-mgmt-cfg/main/policy.json",
         "Version": 1
-    }
+    },
+    "CoreVersion": "2.0.0.0"
 }
