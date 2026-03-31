@@ -1,9 +1,9 @@
 {
+    "CoreVersion": "2.0.0.0",
     "ServerKind": 0,
     "OrganizationName": "西中电教中心",
     "PolicySource": {
-        "Value": "https://raw.gitmirror/Bani61/classisland-mgmt-cfg/main/policy.json",
+        "Value": "https://jsd.onmicrosoft.cn/gh/Bani61/classisland-mgmt-cfg@main/policy.json",
         "Version": 1
-    },
-    "CoreVersion": "2.0.0.0"
+    }
 }
