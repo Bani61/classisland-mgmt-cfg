@@ -1,4 +1,5 @@
 {
+// 项目地址：https://github.com/Bani61/classisland-mgmt-cfg
     "ManagementServerKind": 0,
     "ManagementServer": "",
     "ManifestUrlTemplate": "https://jsd.onmicrosoft.cn/gh/Bani61/classisland-mgmt-cfg@main/manifest.json"
