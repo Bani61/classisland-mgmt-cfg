@@ -4,6 +4,6 @@
     "OrganizationName": "西中电教中心",
     "PolicySource": {
         "Value": "https://jsd.onmicrosoft.cn/gh/Bani61/classisland-mgmt-cfg@main/policy.json",
-        "Version": 1
+        "Version": 2
     }
 }
